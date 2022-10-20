@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779307721190",
+    "project_id": "reactnativeonesignal-9f8a4",
+    "storage_bucket": "reactnativeonesignal-9f8a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779307721190:android:646b24c5d6af26f81ff627",
+        "android_client_info": {
+          "package_name": "com.reactnativeonesignalnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779307721190-jce0uas236m83ar3a01eh66m72tj2547.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjgEleDxf_BS9pKEXB2ZTSPT1BljCyBz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779307721190-jce0uas236m83ar3a01eh66m72tj2547.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
